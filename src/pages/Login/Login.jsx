@@ -27,6 +27,7 @@ export default function Login({ navigation }) {
 
     return (
         <View style={styles.container}>
+
   
             <Text>EXEMPLO DE GITHUB! - AULA</Text>
 
